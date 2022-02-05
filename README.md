@@ -6,5 +6,6 @@ When you use the PHP mail() function, you end up sending email directly from you
 <p> Zend_Mail</p>
 <p> XpertMailer</p>
 <p> PEAR Mail</p>
+Reference  - https://www.youtube.com/watch?v=aBbmo1pi5B0&t=239s
 
 
